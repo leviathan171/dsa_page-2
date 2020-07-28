@@ -1,0 +1,59 @@
+body{
+	font-family: Microsoft JhengHei !important;
+}
+
+.background-primary{
+	background-color: #eaeff8;
+}
+
+.background-white{
+	background-color: #ffffff;
+}
+
+.background-white-transparent{
+	background-color: #ffffffcc;
+}
+
+.button-style-1{
+	width: 7.18vw;
+	height: 2.7vh;
+	background-color: #8596c0;
+	color: #fff;
+	border: 0;
+}
+
+.text-black-1{
+	color: #434b5d;
+}
+
+.text-size-14{
+	font-size: 0.875rem;
+}
+
+.text-size-16{
+	font-size: 1rem;
+}
+
+.text-weight-normal{
+	font-weight: 400;
+}
+
+.tool-storage{
+	height: calc(77.85vh - 2px);
+	width: calc(26.04vw - 2px);
+	margin-top: 2.435vh;
+	margin-left: calc(2.55vw + 1.2vw);
+	border: 1px #bbc4d2 solid;
+}
+
+.tool-track{
+	height: calc(77.85vh - 2px);
+	width: calc(67.71vw - 2px);
+	margin-top:2.435vh;
+	margin-left: 1.3vw;
+	border: 1px #bbc4d2 solid;
+}
+
+.tool-track-content{
+	padding: 0 2.855vw;
+}
